@@ -1,2 +1,3 @@
 editing in newbranch
 changes not seen in masterbranch without merging it again.
+you can see this changes bcoz of merging this file again
